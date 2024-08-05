@@ -1,1 +1,2 @@
 このリポジトリは、RPGツクールMV製のゲームをGitHubでwebページとして公開する例を提供することを目的としています。
+https://rpgmakerhub.github.io/RPGMaker_WebPage
